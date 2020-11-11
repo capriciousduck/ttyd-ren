@@ -1,0 +1,8 @@
+{
+  "name": "ttyd on Heroku",
+  "description": "ttyd on Heroku",
+ 
+  "website": "",
+  "repository": "",
+  "stack": "container"
+ }
