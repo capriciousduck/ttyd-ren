@@ -1,6 +1,7 @@
 {
   "name": "ttyd on Heroku",
   "description": "ttyd on Heroku", 
+  "env":"",
   "website": "",
   "repository": "",
   "stack": "container"
